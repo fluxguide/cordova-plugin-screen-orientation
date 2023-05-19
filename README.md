@@ -44,7 +44,7 @@ The plugin adds the following to the screen object (`window.screen`):
 
 
 ```bash
-cordova plugin add cordova-plugin-screen-orientation
+cordova plugin add https://github.com/fluxguide/cordova-plugin-screen-orientation
 ```
 
 ## Supported Orientations
